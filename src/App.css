@@ -1,0 +1,15 @@
+nav {
+    height: 50px;
+}
+
+main {
+    height: calc(100vh - 100px);
+}
+
+.map-container {
+    height: 100%;
+}
+
+footer {
+    height: 50px;
+}
